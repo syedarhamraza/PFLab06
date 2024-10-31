@@ -8,7 +8,7 @@ int main()
     int i = 1;
     while (i <= weeks)
     {
-        cout << "Week " << i << ": ";
+        cout << "Week" << i << ": ";
         int j = 1;
         while (j <= days)
         {
